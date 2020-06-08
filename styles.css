@@ -1,0 +1,87 @@
+body {
+  margin:0;
+  text-align: center;
+  background-color: #E4f9f5;
+  border-style: solid;
+}
+.top {
+text-align: center;
+}
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  font-size: 460.5%;
+  margin:0 auto;
+  font-family: 'Sacramento',cursive;
+}
+h2 {
+font-family: 'Montserrat', sans-serif;
+}
+h3 {
+font-family: 'Montserrat', sans-serif;
+}
+.middle { font-size: 30px;
+  text-align: center;
+  background-color: #e0ebe8;
+  align-items: center;
+
+}
+.bottom {
+  font-size: 30px;
+  text-align: center;
+  background-color: #c5ded7;
+
+}
+.cloud {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  left:300px;
+  top: 100px;
+}
+.cloud1 {
+  height: 150px;
+  width: 150px;
+  position:absolute;
+  left:300px;
+  top: 300px;
+}
+.langskills {
+  width: 400px;
+  border-radius: 50%;
+
+}
+.mountain {
+  height: 350px;
+  width: 800px;
+  margin-bottom: 0;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.profile {
+  width: 360px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+p {
+  font-family: 'Righteous', cursive;
+  font-size: 100%;
+  width: 460px;
+  margin-left: 33%;
+}
+.skills {
+  width: 400px;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}
